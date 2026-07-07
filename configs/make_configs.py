@@ -33,6 +33,8 @@ def write_config(task, model, output_folder, **kwargs):
 def main(config_folder="configs"):
     models = [
         # normal models
+
+        ("Qwen/Qwen2.5-7B-Instruct", False, True)
         ("google/gemma-2b", False, False),
         ("google/gemma-7b", False, False),
         ("mistralai/Mistral-7B-v0.1", False, False),
@@ -54,7 +56,8 @@ def main(config_folder="configs"):
         "crt": ["crt1", "crt2", "crt3"],
         "digit_mat": [],
         "dgl": [],
-        "blimp": []
+        "blimp": [],
+        "lmmg": []
     }
 
     for task, conditions in tasks.items():

@@ -1,0 +1,201 @@
+item_id,phenomenon,test_item,sentence1,sentence2
+0,grammatical control,TS 1,John was craving a glass of cold water,John was craving a glass of cold beer
+1,grammatical control,TS 2,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping book,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping thriller
+2,grammatical control,TS 3,The famous maestro conducted the national orchestra wearing a wool suit ,The famous maestro conducted the national orchestra wearing a wool tuxedo
+3,grammatical control,TS 4,Linda loves scented candles especially during the breezy winter,Linda loves scented candles especially during the breezy autumn
+4,grammatical control,TS 5,Mural artists transform dull walls into vibrant scenes ,Mural artists transform dull walls into vibrant canvases
+5,grammatical control,TS 6,Children release colorful kites into the azure sky,Children release colorful kites into the azure horizon
+6,grammatical control,TS 7,The scent of old books in a library evokes a sense of nostalgia and intellectual curiosity,The scent of old books in a library evokes a sense of nostalgia and intellectual animosity
+7,grammatical control,TS 8,Poets weave words into verses that evoke strong feelings ,Poets weave words into verses that evoke strong emotions
+8,grammatical control,TS 9,The curious child explored the attic full of forgotten treasures,The curious child explored the attic full of forgotten toys
+9,grammatical control,TS 10,The aroma of freshly baked cookies filled the cozy house ,The aroma of freshly baked cookies filled the cozy kitchen
+10,grammatical control,TS 11,The melody of the piano echoed through the empty room,The melody of the piano echoed through the empty hall
+11,grammatical control,TS 12,The sand squished between their toes as they walked along the crowded beach,The sand squished between their toes as they walked along the crowded shore
+12,grammatical control,TS 13,"The cabin nestled in the woods, its chimney billowing smoke into the brisk wind","The cabin nestled in the woods, its chimney billowing smoke into the brisk air"
+13,grammatical control,TS 14,The distant mountains had their peaks covered in white snow,The distant mountains had their peaks covered in white fog
+14,grammatical control,TS 15,The shimmering lake stretched out before us with calm waters,The shimmering lake stretched out before them with calm colors
+15,grammatical control,TS 16,The new teacher received warm praise for their teaching style,The new teacher received warm praise for their teaching material
+16,grammatical control,TS 17,The soprano mesmerized the public with her strong performance,The soprano mesmerized the public with her strong voice
+17,grammatical control,TS 18,The doctor efficiently explained things and helped the patients through a peaceful demeanor,The doctor efficiently explained things and helped the patients through a peaceful attitude
+18,grammatical control,TS 19,"Every Sunday, my cousins happily enjoy their tasty cake","Every Sunday, my cousins happily enjoy their tasty ice cream"
+19,grammatical control,TS 20,The stars shimmered in the velvet sky,The stars shimmered in the velvet night
+20,grammatical control,TS 21,The butterfly flitted gracefully through Mary's beautiful flowers ,The butterfly flitted gracefully through Mary's beautiful garden
+21,grammatical control,TS 22,Dawn painted the sky with pastel colors,Dawn painted the sky with pastel hues
+22,grammatical control,TS 23,Distant whispers of the past haunted his troubled soul,Distant whispers of the past haunted his troubled mind
+23,grammatical control,TS 24,This expensive restaurant served us soggy bread,This expensive restaurant served us soggy pizza
+24,grammatical control,TS 25,The loud music was heard through the thin walls,The loud music was heard through the thin windows
+25,grammatical control,TS 26,Will bought tons of this delicious chocolate,Will bought tons of this delicious cheese
+26,grammatical control,TS 27,The scent of pine needles filled the deserted forest,The scent of pine needles filled the deserted mountain
+27,grammatical control,TS 28,The soldiers marched through the old city,The soldiers marched through the old village
+28,grammatical control,TS 29,The student enjoyed the spring break,The student enjoyed the spring holidays
+29,grammatical control,TS 30,The glow of the fire illuminated their tired eyes,The glow of the fire illuminated their tired faces
+30,grammatical control,TS 31,The rustle of pages filled the big school,The rustle of pages filled the big library
+31,grammatical control,TS 32,The crackle of thunder broke the tranquil silence,The crackle of thunder broke the tranquil serenity
+32,grammatical control,TS 33,Beth's laughter filled the room with infectious joy,Beth's laughter filled the room with infectious happiness
+33,grammatical control,TS 34,The nurse smiled and her face transmitted genuine warmth ,The nurse smiled and her face transmitted genuine kindness
+34,grammatical control,TS 35,Louise went shopping and bought a black skirt,Louise went shopping and bought a black blouse
+35,grammatical control,TS 36,Last week we found out that Dan was gifted a luxurious car,Last week we found out that Dan was gifted a luxurious yacht
+36,grammatical control,TS 37,The old farm was protected by a big dog,The old farm was protected by a big fence
+37,grammatical control,TS 38,Their family ranch was surrounded by tall trees,Their family ranch was surrounded by tall shrubs
+38,grammatical control,TS 39,Her dress flowed elegantly thanks to its smooth fabric,Her dress flowed elegantly thanks to its smooth lace
+39,grammatical control,TS 40,The children were happily chasing the agile cat,The children were happily chasing the agile bunny
+40,grammatical control,TS 41,The night settled in and brought with it its peaceful silence ,The night settled in and brought with it its peaceful sounds
+41,grammatical control,TS 42,The birthday cake looked delicious with all its colorful fillings,The birthday cake looked delicious with all its colorful toppings
+42,grammatical control,TS 43,The room felt warm and cozy with its crackling fireplace and plush sofas,The room felt warm and cozy with its crackling fireplace and plush armchairs
+43,grammatical control,TS 44,It was a very festive party with fancy decorations and lively atmosphere,It was a very festive party with fancy decorations and lively spirit
+44,grammatical control,TS 45,The carnival sounded lively with its invitingly cheerful music,The carnival sounded lively with its invitingly cheerful buzz
+45,grammatical control,TS 46,This painting captivated the prospective buyers with its intricate patterns ,This painting captivated the prospective buyers with its intricate details
+46,grammatical control,TS 47,The road to the mountain is full of hidden pathways,The road to the mountain is full of hidden alleys
+47,grammatical control,TS 48,No tourists miss the opportunity to visit the beach with the gentle waves,No tourists miss the opportunity to visit the beach with the gentle sand
+48,grammatical control,TS 49,The old town market has a variety of fresh products,The old town market has a variety of fresh goods
+49,grammatical control,TS 50,The young researcher worked restlessly on old problems,The young researcher worked restlessly on old challenges
+50,ungrammatical,TS 51,John was craving a glass of cold water,John was craving a glass of water cold
+51,ungrammatical,TS 52,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping book,Mary's idea of a perfect Saturday night includes the adrenaline rush of a book gripping
+52,ungrammatical,TS 53,The famous maestro conducted the national orchestra wearing a wool suit ,The famous maestro conducted the national orchestra wearing a suit wool
+53,ungrammatical,TS 54,Linda loves scented candles especially during the breezy winter,Linda loves scented candles especially during the winter breezy
+54,ungrammatical,TS 55,Mural artists transform dull walls into vibrant scenes ,Mural artists transform dull walls into scenes vibrant
+55,ungrammatical,TS 56,Children release colorful kites into the azure sky,Children release colorful kites into the sky azure
+56,ungrammatical,TS 57,The scent of old books in a library evokes a sense of nostalgia and intellectual curiosity,The scent of old books in a library evokes a sense of nostalgia and curiosity intellectual
+57,ungrammatical,TS 58,Poets weave words into verses that evoke strong feelings,Poets weave words into verses that evoke feelings strong
+58,ungrammatical,TS 59,The curious child explored the attic full of forgotten treasures,The curious child explored the attic full of treasures forgotten
+59,ungrammatical,TS 60,The aroma of freshly baked cookies filled the cozy house ,The aroma of freshly baked cookies filled the house cozy
+60,ungrammatical,TS 61,The melody of the piano echoed through the empty room,The melody of the piano echoed through the room empty
+61,ungrammatical,TS 62,The sand squished between their toes as they walked along the crowded beach,The sand squished between their toes as they walked along the beach crowded
+62,ungrammatical,TS 63,"The cabin nestled in the woods, its chimney billowing smoke into the brisk wind","The cabin nestled in the woods, its chimney billowing smoke into the wind brisk"
+63,ungrammatical,TS 64,The distant mountains had their peaks covered in white snow,The distant mountains had their peaks covered in snow white
+64,ungrammatical,TS 65,The shimmering lake stretched out before us with calm waters,The shimmering lake stretched out before us with waters calm
+65,ungrammatical,TS 66,The new teacher received warm praise for their teaching style,The new teacher received warm praise for their style teaching
+66,ungrammatical,TS 67,The soprano mesmerized the public with her strong performance,The soprano mesmerized the public with her performance strong
+67,ungrammatical,TS 68,The doctor efficiently explained things and helped the patients through a peaceful demeanor,The doctor efficiently explained things and helped the patients through a demeanor peaceful
+68,ungrammatical,TS 69,"Every Sunday, my cousins happily enjoy their tasty cake","Every Sunday, my cousins happily enjoy their cake tasty"
+69,ungrammatical,TS 70,The stars shimmered in the velvet sky,The stars shimmered in the sky velvet
+70,ungrammatical,TS 71,The butterfly flitted gracefully through Mary's beautiful flowers ,The butterfly flitted gracefully through Mary's flowers beautiful
+71,ungrammatical,TS 72,Dawn painted the sky with pastel colors,Dawn painted the sky with colors pastel
+72,ungrammatical,TS 73,Distant whispers of the past haunted his troubled soul,Distant whispers of the past haunted his soul troubled
+73,ungrammatical,TS 74,This expensive restaurant served us soggy bread,This expensive restaurant served us bread soggy
+74,ungrammatical,TS 75,The loud music was heard through the thin walls,The loud music was heard through the walls thin
+75,ungrammatical,TS 76,Will bought tons of this delicious chocolate,Will bought tons of this chocolate delicious
+76,ungrammatical,TS 77,The scent of pine needles filled the deserted forest,The scent of pine needles filled the forest deserted
+77,ungrammatical,TS 78,The soldiers marched through the old city,The soldiers marched through the city old
+78,ungrammatical,TS 79,The student enjoyed the spring break,The student enjoyed the break spring
+79,ungrammatical,TS 80,The glow of the fire illuminated their tired eyes,The glow of the fire illuminated their eyes tired
+80,ungrammatical,TS 81,The rustle of pages filled the big school,The rustle of pages filled the school big
+81,ungrammatical,TS 82,The crackle of thunder broke the tranquil silence,The crackle of thunder broke the silence tranquil
+82,ungrammatical,TS 83,Beth's laughter filled the room with infectious joy,Beth's laughter filled the room with joy infectious
+83,ungrammatical,TS 84,The nurse smiled and her face transmitted genuine warmth ,The nurse smiled and her face transmitted warmth genuine
+84,ungrammatical,TS 85,Louise went shopping and bought a black skirt,Louise went shopping and bought a skirt black
+85,ungrammatical,TS 86,Last week we found out that Dan was gifted a luxurious car,Last week we found out that Dan was gifted a car luxurious
+86,ungrammatical,TS 87,The old farm was protected by a big dog,The old farm was protected by a dog big
+87,ungrammatical,TS 88,Their family ranch was surrounded by tall trees,Their family ranch was surrounded by trees tall
+88,ungrammatical,TS 89,Her dress flowed elegantly thanks to its smooth fabric,Her dress flowed elegantly thanks to its fabric smooth
+89,ungrammatical,TS 90,The children were happily chasing the agile cat,The children were happily chasing the cat agile
+90,ungrammatical,TS 91,The night settled in and brought with it its peaceful silence ,The night settled in and brought with it its silence peaceful
+91,ungrammatical,TS 92,The birthday cake looked delicious with all its colorful fillings,The birthday cake looked delicious with all its fillings colorful
+92,ungrammatical,TS 93,The room felt warm and cozy with its crackling fireplace and plush sofas,The room felt warm and cozy with its crackling fireplace and sofas plush
+93,ungrammatical,TS 94,It was a very festive party with fancy decorations and lively atmosphere,It was a very festive party with fancy decorations and atmosphere lively
+94,ungrammatical,TS 95,The carnival sounded lively with its invitingly cheerful music,The carnival sounded lively with its invitingly music cheerful
+95,ungrammatical,TS 96,This painting captivated the prospective buyers with its intricate patterns ,This painting captivated the prospective buyers with its patterns intricate
+96,ungrammatical,TS 97,The road to the mountain is full of hidden pathways,The road to the mountain is full of pathways hidden
+97,ungrammatical,TS 98,No tourists miss the opportunity to visit the beach with the gentle waves,No tourists miss the opportunity to visit the beach with the waves gentle
+98,ungrammatical,TS 99,The old town market has a variety of fresh products,The old town market has a variety of products fresh
+99,ungrammatical,TS 100,The young researcher worked restlessly on old problems,The young researcher worked restlessly on problems old
+100,pragmatically odd,TS 101,John was craving a glass of cold water,John was craving a glass of cold tears
+101,pragmatically odd,TS 102,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping book,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping calligraphy
+102,pragmatically odd,TS 103,The famous maestro conducted the national orchestra wearing a wool suit ,The famous maestro conducted the national orchestra wearing a wool diaper
+103,pragmatically odd,TS 104,Linda loves scented candles especially during the breezy winter,Linda loves scented candles especially during the breezy hurricane
+104,pragmatically odd,TS 105,Mural artists transform dull walls into vibrant scenes ,Mural artists transform dull walls into vibrant grimoires
+105,pragmatically odd,TS 106,Children release colorful kites into the azure sky,Children release colorful kites into the azure paint
+106,pragmatically odd,TS 107,The scent of old books in a library evokes a sense of nostalgia and intellectual curiosity,The scent of old books in a library evokes a sense of nostalgia and intellectual irony
+107,pragmatically odd,TS 108,Poets weave words into verses that evoke strong feelings,Poets weave words into verses that evoke strong coughing
+108,pragmatically odd,TS 109,The curious child explored the attic full of forgotten treasures,The curious child explored the attic full of forgotten crowns
+109,pragmatically odd,TS 110,The aroma of freshly baked cookies filled the cozy house ,The aroma of freshly baked cookies filled the cozy jail
+110,pragmatically odd,TS 111,The melody of the piano echoed through the empty room,The melody of the piano echoed through the empty egg
+111,pragmatically odd,TS 112,The sand squished between their toes as they walked along the crowded beach,The sand squished between their toes as they walked along the crowded spaceship
+112,pragmatically odd,TS 113,"The cabin nestled in the woods, its chimney billowing smoke into the brisk wind","The cabin nestled in the woods, its chimney billowing smoke into the brisk sand"
+113,pragmatically odd,TS 114,The distant mountains had their peaks covered in white snow,The distant mountains had their peaks covered in white chocolate
+114,pragmatically odd,TS 115,The shimmering lake stretched out before us with calm waters,The shimmering lake stretched out before us with calm fish
+115,pragmatically odd,TS 116,The new teacher received warm praise for their teaching style,The new teacher received warm praise for their teaching glasses
+116,pragmatically odd,TS 117,The soprano mesmerized the public with her strong performance,The soprano mesmerized the public with her strong teeth
+117,pragmatically odd,TS 118,The doctor efficiently explained things and helped the patients through a peaceful demeanor,The doctor efficiently explained things and helped the patients through a peaceful silence
+118,pragmatically odd,TS 119,"Every Sunday, my cousins happily enjoy their tasty cake","Every Sunday, my cousins happily enjoy their tasty bogeys"
+119,pragmatically odd,TS 120,The stars shimmered in the velvet sky,The stars shimmered in the velvet yogurt
+120,pragmatically odd,TS 121,The butterfly flitted gracefully through Mary's beautiful flowers ,The butterfly flitted gracefully through Mary's beautiful churchyard
+121,pragmatically odd,TS 122,Dawn painted the sky with pastel colors,Dawn painted the sky with pastel shapes
+122,pragmatically odd,TS 123,Distant whispers of the past haunted his troubled soul,Distant whispers of the past haunted his troubled hearing
+123,pragmatically odd,TS 124,This expensive restaurant served us soggy bread,This expensive restaurant served us soggy cigars
+124,pragmatically odd,TS 125,The loud music was heard through the thin walls,The loud music was heard through the thin notebook
+125,pragmatically odd,TS 126,Will bought tons of this delicious chocolate,Will bought tons of this delicious water
+126,pragmatically odd,TS 127,The scent of pine needles filled the deserted forest,The scent of pine needles filled the deserted reactor
+127,pragmatically odd,TS 128,The soldiers marched through the old city,The soldiers marched through the old televisions
+128,pragmatically odd,TS 129,The student enjoyed the spring break,The student enjoyed the spring alopecia
+129,pragmatically odd,TS 130,The glow of the fire illuminated their tired eyes,The glow of the fire illuminated their tired nails
+130,pragmatically odd,TS 131,The rustle of pages filled the big school,The rustle of pages filled the big cemetery
+131,pragmatically odd,TS 132,The crackle of thunder broke the tranquil silence,The crackle of thunder broke the tranquil birth
+132,pragmatically odd,TS 133,Beth's laughter filled the room with infectious joy,Beth's laughter filled the room with infectious diseases
+133,pragmatically odd,TS 134,The nurse smiled and her face transmitted genuine warmth ,The nurse smiled and her face transmitted genuine wrath
+134,pragmatically odd,TS 135,Louise went shopping and bought a black skirt,Louise went shopping and bought a black banana
+135,pragmatically odd,TS 136,Last week we found out that Dan was gifted a luxurious car,Last week we found out that Dan was gifted a luxurious denture
+136,pragmatically odd,TS 137,The old farm was protected by a big dog,The old farm was protected by a big snail
+137,pragmatically odd,TS 138,Their family ranch was surrounded by tall trees,Their family ranch was surrounded by tall elves
+138,pragmatically odd,TS 139,Her dress flowed elegantly thanks to its smooth fabric,Her dress flowed elegantly thanks to its smooth label
+139,pragmatically odd,TS 140,The children were happily chasing the agile cat,The children were happily chasing the agile elephant
+140,pragmatically odd,TS 141,The night settled in and brought with it its peaceful silence ,The night settled in and brought with it its peaceful parties
+141,pragmatically odd,TS 142,The birthday cake looked delicious with all its colorful fillings,The birthday cake looked delicious with all its colorful tomatoes
+142,pragmatically odd,TS 143,The room felt warm and cozy with its crackling fireplace and plush sofas,The room felt warm and cozy with its crackling fireplace and plush plants
+143,pragmatically odd,TS 144,It was a very festive party with fancy decorations and lively atmosphere,It was a very festive party with fancy decorations and lively yawns
+144,pragmatically odd,TS 145,The carnival sounded lively with its invitingly cheerful music,The carnival sounded lively with its invitingly cheerful clamor
+145,pragmatically odd,TS 146,This painting captivated the prospective buyers with its intricate patterns ,This painting captivated the prospective buyers with its intricate whiteness
+146,pragmatically odd,TS 147,The road to the mountain is full of hidden pathways,The road to the mountain is full of hidden dentists
+147,pragmatically odd,TS 148,No tourists miss the opportunity to visit the beach with the gentle waves,No tourists miss the opportunity to visit the beach with the gentle pirates
+148,pragmatically odd,TS 149,The old town market has a variety of fresh products,The old town market has a variety of fresh viruses
+149,pragmatically odd,TS 150,The young researcher worked restlessly on old problems,The young researcher worked restlessly on old doormats
+150,semantically odd,TS 151,John was craving a glass of cold water,John was craving a glass of cold laptops
+151,semantically odd,TS 152,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping book,Mary's idea of a perfect Saturday night includes the adrenaline rush of a gripping sunray
+152,semantically odd,TS 153,The famous maestro conducted the national orchestra wearing a wool suit ,The famous maestro conducted the national orchestra wearing a wool ink
+153,semantically odd,TS 154,Linda loves scented candles especially during the breezy winter,Linda loves scented candles especially during the breezy oysters
+154,semantically odd,TS 155,Mural artists transform dull walls into vibrant scenes ,Mural artists transform dull walls into vibrant crutches
+155,semantically odd,TS 156,Children release colorful kites into the azure sky,Children release colorful kites into the azure olives
+156,semantically odd,TS 157,The scent of old books in a library evokes a sense of nostalgia and intellectual curiosity,The scent of old books in a library evokes a sense of nostalgia and intellectual pandas
+157,semantically odd,TS 158,Poets weave words into verses that evoke strong feelings,Poets weave words into verses that evoke strong eyelashes
+158,semantically odd,TS 159,The curious child explored the attic full of forgotten treasures,The curious child explored the attic full of forgotten islands
+159,semantically odd,TS 160,The aroma of freshly baked cookies filled the cozy house ,The aroma of freshly baked cookies filled the cozy eyebrows
+160,semantically odd,TS 161,The melody of the piano echoed through the empty room,The melody of the piano echoed through the empty water
+161,semantically odd,TS 162,The sand squished between their toes as they walked along the crowded beach,The sand squished between their toes as they walked along the crowded pencil
+162,semantically odd,TS 163,"The cabin nestled in the woods, its chimney billowing smoke into the brisk wind","The cabin nestled in the woods, its chimney billowing smoke into the brisk radio"
+163,semantically odd,TS 164,The distant mountains had their peaks covered in white snow,The distant mountains had their peaks covered in white blood
+164,semantically odd,TS 165,The shimmering lake stretched out before us with calm waters,The shimmering lake stretched out before us with calm nostrils
+165,semantically odd,TS 166,The new teacher received warm praise for their teaching style,The new teacher received warm praise for their teaching spaceship
+166,semantically odd,TS 167,The soprano mesmerized the public with her strong performance,The soprano mesmerized the public with her strong sleep
+167,semantically odd,TS 168,The doctor efficiently explained things and helped the patients through a peaceful demeanor,The doctor efficiently explained things and helped the patients through a peaceful war
+168,semantically odd,TS 169,"Every Sunday, my cousins happily enjoy their tasty cake","Every Sunday, my cousins happily enjoy their tasty benches"
+169,semantically odd,TS 170,The stars shimmered in the velvet sky,The stars shimmered in the velvet injections
+170,semantically odd,TS 171,The butterfly flitted gracefully through Mary's beautiful flowers ,The butterfly flitted gracefully through Mary's beautiful teeth
+171,semantically odd,TS 172,Dawn painted the sky with pastel hues,Dawn painted the sky with pastel cholesterol
+172,semantically odd,TS 173,Distant whispers of the past haunted his troubled soul,Distant whispers of the past haunted his troubled eggshells
+173,semantically odd,TS 174,This expensive restaurant served us soggy bread,This expensive restaurant served us soggy socks
+174,semantically odd,TS 175,The loud music was heard through the thin walls,The loud music was heard through the thin gums
+175,semantically odd,TS 176,Will bought tons of this delicious chocolate,Will bought tons of this delicious mold
+176,semantically odd,TS 177,The scent of pine needles filled the deserted forest,The scent of pine needles filled the deserted ears
+177,semantically odd,TS 178,The soldiers marched through the old city,The soldiers marched through the old eyebrows
+178,semantically odd,TS 179,The student enjoyed the spring break,The student enjoyed the spring aliens
+179,semantically odd,TS 180,The glow of the fire illuminated their tired eyes,The glow of the fire illuminated their tired muffins
+180,semantically odd,TS 181,The rustle of pages filled the big school,The rustle of pages filled the big sandwich
+181,semantically odd,TS 182,The crackle of thunder broke the tranquil silence,The crackle of thunder broke the tranquil armpit
+182,semantically odd,TS 183,Beth's laughter filled the room with infectious joy,Beth's laughter filled the room with infectious frogs
+183,semantically odd,TS 184,The nurse smiled and her face transmitted genuine warmth ,The nurse smiled and her face transmitted genuine strawberries
+184,semantically odd,TS 185,Louise went shopping and bought a black skirt,Louise went shopping and bought a black infection
+185,semantically odd,TS 186,Last week we found out that Dan was gifted a luxurious car,Last week we found out that Dan was gifted a luxurious toothache
+186,semantically odd,TS 187,The old farm was protected by a big dog,The old farm was protected by a big vitamin
+187,semantically odd,TS 188,Their family ranch was surrounded by tall trees,Their family ranch was surrounded by tall livers
+188,semantically odd,TS 189,Her dress flowed elegantly thanks to its smooth fabric,Her dress flowed elegantly thanks to its smooth pepper 
+189,semantically odd,TS 190,The children were happily chasing the agile cat,The children were happily chasing the agile trumpet
+190,semantically odd,TS 191,The night settled in and brought with it its peaceful silence ,The night settled in and brought with it its peaceful gloves
+191,semantically odd,TS 192,The birthday cake looked delicious with all its colorful fillings,The birthday cake looked delicious with all its colorful cough
+192,semantically odd,TS 193,The room felt warm and cozy with its crackling fireplace and plush sofas,The room felt warm and cozy with its crackling fireplace and plush emeralds
+193,semantically odd,TS 194,It was a very festive party with fancy decorations and lively atmosphere,It was a very festive party with fancy decorations and lively bullets
+194,semantically odd,TS 195,The carnival sounded lively with its invitingly cheerful music,The carnival sounded lively with its invitingly cheerful lips
+195,semantically odd,TS 196,This painting captivated the prospective buyers with its intricate patterns ,This painting captivated the prospective buyers with its intricate thirst
+196,semantically odd,TS 197,The road to the mountain is full of hidden pathways,The road to the mountain is full of hidden vowels
+197,semantically odd,TS 198,No tourists miss the opportunity to visit the beach with the gentle waves,No tourists miss the opportunity to visit the beach with the gentle rubbish
+198,semantically odd,TS 199,The old town market has a variety of fresh products,The old town market has a variety of fresh lullabies
+199,semantically odd,TS 200,The young researcher worked restlessly on old problems,The young researcher worked restlessly on old newborns

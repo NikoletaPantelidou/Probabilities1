@@ -1,6 +1,6 @@
 import pandas as pd
 
-from metrics import lambada, digit_mat, crt, dgl, blimp
+from metrics import lambada, digit_mat, crt, dgl, blimp, lmmg
 from stimuli import TASK_TO_DATASET
 
 EVAL_FNS = {
@@ -8,7 +8,8 @@ EVAL_FNS = {
     "lambada": lambada.evaluate,
     "digit_mat": digit_mat.evaluate,
     "dgl": dgl.evaluate,
-    "blimp": blimp.evaluate
+    "blimp": blimp.evaluate,
+    "lmmg": lmmg.evaluate
 }
 
 def save_data_csv(result, model, outpath):

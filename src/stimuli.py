@@ -45,5 +45,6 @@ TASK_TO_DATASET = {
     "digit_mat": DigitMatDataset,
     "crt": CSVDataset,
     "dgl": CSVDataset,
-    "blimp": CSVDataset
+    "blimp": CSVDataset,
+    "lmmg": CSVDataset
 }
