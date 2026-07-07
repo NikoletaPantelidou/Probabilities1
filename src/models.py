@@ -48,14 +48,12 @@ class LM():
             self.model_name,
             self.tokenizer_name,
             revision=revision,
-            accelerate=accelerate,
+            accelerate=False,
             **load_kwargs
         )
         self.tokenizer = tokenizer
-        if accelerate:
-            self.model = model
-        else:
-            self.model = model.to(self.device)
+        self.model = model.to(self.device)
+
 
         # Initialize incremental LM scorer for forced-choice evaluation.
         print("Initializing incremental LM scorer")
@@ -90,17 +88,14 @@ class LM():
             # Load model using Accelerate.
             model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-                device_map="auto",
-                offload_folder="offload_folder",
-                torch_dtype=torch.float16,
-                offload_state_dict=True,
+                torch_dtype=torch.bfloat16,  # or float16
                 **kwargs
             )
         else:
             model = AutoModelForCausalLM.from_pretrained(
                 model_name,
                 torch_dtype=torch.bfloat16,
-                device_map="auto"
+                
             )
         return tokenizer, model
 
