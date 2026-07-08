@@ -1,0 +1,3 @@
+task: lmmg
+model: deepseek-ai/deepseek-llm-67b-base
+max_new_tokens: 100

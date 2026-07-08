@@ -1,3 +1,0 @@
-task: lmmg
-model: nvidia/Llama-3_3-Nemotron-Super-49B-v1_5
-max_new_tokens: 100

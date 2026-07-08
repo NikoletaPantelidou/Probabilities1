@@ -33,9 +33,9 @@ def write_config(task, model, output_folder, **kwargs):
 def main(config_folder="configs"):
     models = [
         # normal models
-        ("nvidia/Llama-3_3-Nemotron-Super-49B-v1_5", False,False)
-        ("deepseek-ai/DeepSeek-R1-Distill-Llama-70B", False, False),
-        ("allenai/Olmo-3.1-32B-Instruct", False, True)
+        ("allenai/Olmo-3.1-32B-Instruct", False,True)
+        ("localmodels/Llama-2-70B-Chat-GPTQ", False, True),
+        ("Qwen/Qwen2.5-32B-Instruct", False, True)
         ("Qwen/Qwen2.5-7B-Instruct", False, True)
         ("google/gemma-2b", False, False),
         ("google/gemma-7b", False, False),

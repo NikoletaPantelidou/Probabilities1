@@ -1,3 +1,0 @@
-task: lmmg
-model: deepseek-ai/DeepSeek-R1-Distill-Llama-70B
-max_new_tokens: 100

@@ -48,6 +48,7 @@ def main():
         args.model,
         tokenizer_name=args.tokenizer,
         token=token,
+        trust_remote_code=True,
         cache_dir=args.cache_dir,
         revision=args.revision,
         instruct=args.instruct,
