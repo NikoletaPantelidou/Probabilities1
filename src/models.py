@@ -12,6 +12,8 @@ class LM():
                  tokenizer_name=None,
                  revision=None,
                  accelerate=False,
+                 use_safetensors=True,
+                 low_cpu_mem_usage=True,
                  instruct=False,
                  **load_kwargs):
         # Store basic meta data about the model.

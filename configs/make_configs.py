@@ -34,7 +34,7 @@ def main(config_folder="configs"):
     models = [
         # normal models
         ("allenai/Olmo-3.1-32B-Instruct", False,True)
-        ("localmodels/Llama-2-70B-Chat-GPTQ", False, True),
+        ("deepseek-ai/DeepSeek-R1-Distill-Qwen-32B", False, False),
         ("Qwen/Qwen2.5-32B-Instruct", False, True)
         ("Qwen/Qwen2.5-7B-Instruct", False, True)
         ("google/gemma-2b", False, False),
