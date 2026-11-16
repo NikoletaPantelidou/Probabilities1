@@ -1,0 +1,4 @@
+
+task: lmmg
+model: google/gemma-7b
+max_new_tokens: 100

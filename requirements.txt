@@ -146,3 +146,5 @@ wheel=0.42.0=pyhd8ed1ab_0
 xxhash=3.4.1=pypi_0
 xz=5.2.6=h166bdaf_0
 yarl=1.9.4=pypi_0
+
+tqdm

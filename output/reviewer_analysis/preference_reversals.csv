@@ -1,0 +1,9 @@
+model,condition,n_total,n_comparable_non_ties,agreement_percentage,n_preference_reversals,percentage_preference_reversals,n_original_ties,n_normalized_ties,mcnemar_p
+EleutherAI/pythia-1b-deduped,paired,200,200,92.5,15,7.5,0,0,0.03515625
+Qwen/Qwen2.5-32B-Instruct,paired,200,197,97.46192893401016,5,2.5,3,3,0.0625
+Qwen/Qwen2.5-7B-Instruct,paired,200,200,97.5,5,2.5,0,0,0.375
+allenai/Olmo-3.1-32B-Instruct,paired,200,197,96.44670050761421,7,3.5,3,3,0.125
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,paired,200,199,97.48743718592965,5,2.5,1,1,0.0625
+google/gemma-2b,paired,200,200,99.0,2,1.0,0,0,0.5
+google/gemma-7b,paired,200,200,99.5,1,0.5,0,0,1.0
+mistralai/Mistral-7B-v0.1,paired,200,200,90.0,20,10.0,0,0,1.9073486328125e-06

@@ -15,11 +15,13 @@ def parse_args():
                help="Path to output directory where output files will be written")
     parser.add("--cache_dir", type=Path,
                help="Path to Huggingface cache")
-    parser.add("--hf_token_path", default="src/hf_token.txt", type=Path,
-               help="Path to file containing Huggingface token.")
-
+    parser.add_argument(
+        "--hf_token_path",
+        type=Path,
+        default=Path(__file__).resolve().parent / "hf_token.txt"
+    )
     # Model-related parameters
-    parser.add("--model", type=str, default="gpt2")
+    parser.add("--model", type=str, required=True)
     parser.add("--tokenizer", default=None, type=str)
     parser.add("--revision", default=None)
     parser.add_argument("--instruct", default=False, action="store_true")

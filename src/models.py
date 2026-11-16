@@ -1,4 +1,4 @@
-import torch
+from torch import cuda, bfloat16, device, no_grad
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from minicons import scorer
@@ -33,11 +33,11 @@ class LM():
             print("Using accelerate")
         else:
             # Set device to GPU if cuda is available.
-            if torch.cuda.is_available():
-                self.device = torch.device("cuda")
+            if cuda.is_available():
+                self.device = device("cuda")
                 print("Set device to CUDA")
             else:
-                self.device = torch.device("cpu")
+                self.device = device("cpu")
                 print("Using CPU (CUDA unvailable)")
             self.input_device = self.device
 
@@ -90,13 +90,13 @@ class LM():
             # Load model using Accelerate.
             model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-                torch_dtype=torch.bfloat16,  # or float16
+                torch_dtype=bfloat16,  # or float16
                 **kwargs
             )
         else:
             model = AutoModelForCausalLM.from_pretrained(
                 model_name,
-                torch_dtype=torch.bfloat16,
+                torch_dtype=bfloat16,
                 
             )
         return tokenizer, model
@@ -112,7 +112,7 @@ class LM():
 
     def predict(self, inputs):
         inputs = self._prepare_inputs(inputs)
-        with torch.no_grad():
+        with no_grad():
             outputs = self.model(**inputs)
         logits = outputs.logits
         return logits

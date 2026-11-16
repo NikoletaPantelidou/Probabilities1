@@ -33,6 +33,7 @@ def write_config(task, model, output_folder, **kwargs):
 def main(config_folder="configs"):
     models = [
         # normal models
+        ("EleutherAI/gpt-neox-20b", False, False)
         ("allenai/Olmo-3.1-32B-Instruct", False,True)
         ("deepseek-ai/DeepSeek-R1-Distill-Qwen-32B", False, False),
         ("Qwen/Qwen2.5-32B-Instruct", False, True)
