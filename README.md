@@ -14,6 +14,8 @@ The relevant folders for the probability extraction are the following:
 - `src`: Python scripts for implementing the experiments.
 - `metrics/lmmg` : compares the minimal pairs and computes the 'sum' probabilities.
 
+Note: The folder 'figures' and 'analysis' are not used in this repository.
+
 ## Task & stimuli:
 The task taps into minimal-pair surprisal differences, juxtaposing 50 grammatical sentences with (i) 50 lower frequency grammatical sentences, (ii) 50 ungrammatical sentences, (iii) 50 pragmatically odd sentences, and (iv) 50 semantically odd sentences.
 In the folder, 'external_stimuli', within the 'lmmg' subfolder, you can find the full dataset in a file called 'stimuli.csv'.
