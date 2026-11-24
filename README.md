@@ -1,6 +1,6 @@
 # Large Language Model probabilities cannot reliably distinguish between possible and impossible language
 
-This repository contains code and data for the paper ["Large Language Model probabilities cannot reliably distinguish between possible and impossible language"]. The project is a clone from Hu et al., 2024 (see paper:https://arxiv.org/abs/2404.02418). It has been minimally modified to preserve the methodology as much as possible. If you want to use this code, please cite the original repository by Hu et al.
+This repository contains code and data for the paper ["Large Language Model probabilities cannot reliably distinguish between possible and impossible language"]. The project is a clone from Hu & Frank, 2024 (see paper:https://arxiv.org/abs/2404.02418). It has been minimally modified to preserve the methodology as much as possible. If you want to use this code, please cite the original repository by Hu et al.
 In the current repository, we have added the task 'lmmg', which is related to probability extraction. We only use the material under the 'lmmg' folder.
 If you are interested in the other tasks, please check the original repository by Hu et al. with the relevant README file.
 ## 0. Code structure
